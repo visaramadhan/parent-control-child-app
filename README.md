@@ -80,7 +80,25 @@ A smart and caring mobile application designed to help parents monitor, manage, 
 
 ### 📁 Clone & Setup Project
 
-```bash
-git clone https://github.com/your-username/child-care-app.git
-cd child-care-app
-cp .env.example .env
+```bash```
+`git clone https://github.com/your-username/child-care-app.git`
+`cd child-care-app`
+`cp .env.example .env`
+
+##🤝 Contribution
+- **Fork the project**
+- **Create your branch**: `git checkout -b feature/YourFeature`
+- **Commit changes**: `git commit -m 'Add YourFeature'`
+- **Push branch**: `git push origin feature/YourFeature`
+
+##📧 Contact
+Author: Visa Ramadhan
+Email: visaramadhan28@gmail.com
+GitHub: @visaramadhan
+==
+##📄 License
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+
+
+
