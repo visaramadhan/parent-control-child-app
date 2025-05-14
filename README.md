@@ -85,18 +85,18 @@ A smart and caring mobile application designed to help parents monitor, manage, 
 `cd child-care-app`
 `cp .env.example .env`
 
-##🤝 Contribution
+### 🤝 Contribution
 - **Fork the project**
 - **Create your branch**: `git checkout -b feature/YourFeature`
 - **Commit changes**: `git commit -m 'Add YourFeature'`
 - **Push branch**: `git push origin feature/YourFeature`
 
-##📧 Contact
+### 📧 Contact
 Author: Visa Ramadhan
 Email: visaramadhan28@gmail.com
 GitHub: @visaramadhan
-==
-##📄 License
+
+### 📄 License
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
