@@ -1,0 +1,3 @@
+[submodule "childcare-react-native_expo"]
+	path = childcare-react-native_expo
+	url = https://github.com/visaramadhan/childcare-react-native_expo.git
